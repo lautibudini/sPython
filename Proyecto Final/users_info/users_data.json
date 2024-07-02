@@ -1,0 +1,32 @@
+{
+    "lauti@gmail.com": {
+        "User": "lautii",
+        "Name": "lautaro",
+        "Gender": "Masculino",
+        "BirthDate": "1924-06-17"
+    },
+    "ezequiel@gmail.com": {
+        "User": "ezequiel",
+        "Name": "ezequiel",
+        "Gender": "Masculino",
+        "BirthDate": "1924-06-18"
+    },
+    "cande@gmail.com": {
+        "User": "cande",
+        "Name": "candela",
+        "Gender": "Femenino",
+        "BirthDate": "2003-07-21"
+    },
+    "shawn@gmail.com": {
+        "User": "shawn",
+        "Name": "shawn",
+        "Gender": "Masculino",
+        "BirthDate": "1998-08-08"
+    },
+    "cami@gmail.com": {
+        "User": "cami",
+        "Name": "cami",
+        "Gender": "Femenino",
+        "BirthDate": "2001-10-02"
+    }
+}
